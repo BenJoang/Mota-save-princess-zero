@@ -18,17 +18,25 @@
 
 建议优先下载标记为 Latest 的最新正式版本。
 
-## 作者
+## 合作者
 本魔塔由大傻水工作室的各位合作完成
 
 [@BenJoang](https://github.com/BenJoang): 大傻水，负责本魔塔的核心代码编写，包括战斗、行动以及地图内交互控制。
 
-大傻E：负责地图绘制、石像技能设计、怪物属性设计以及剧情编写。
+@大傻E：大傻E，负责地图绘制、石像技能设计、怪物属性设计以及剧情编写。
 
-可酌：负责白银之间相关核心代码编写。
+@可酌：可酌，负责白银之间相关核心代码编写。
 
-六级：负责测试以及相关楼层传送代码编写。
+@六级：六级，负责测试以及相关楼层传送代码编写。
 
-冻手：负责测试。
+@冻手：冻手，负责测试。
+
+@盐铁桶子：盐铁桶子，b站空间[盐铁桶子](https://space.bilibili.com/8183775)，进行了测试并提供了宝贵测试意见。[相关游戏视频可点击此处](https://www.bilibili.com/video/BV1NR6JYuESB/?)
 
 感谢游玩《魔塔救公主·零》。
+
+也欢迎通过 Issues 提交 Bug、建议和游玩反馈。
+
+## 版权声明
+
+Copyright © 2025–2026 [BenJoang](https://github.com/BenJoang). All rights reserved except as expressly permitted under the PolyForm Noncommercial License 1.0.0.
