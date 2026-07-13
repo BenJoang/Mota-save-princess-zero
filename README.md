@@ -36,7 +36,7 @@
 
 @冻手：冻手，负责测试。
 
-@盐铁桶子：盐铁桶子，b站空间[盐铁桶子](https://space.bilibili.com/8183775)，进行了测试并提供了宝贵测试意见。[相关游戏视频可点击此处](https://www.bilibili.com/video/BV1NR6JYuESB/?)
+@盐铁桶子：盐铁桶子，b站空间[@盐铁桶子](https://space.bilibili.com/8183775)，进行了测试并提供了宝贵测试意见。[相关游戏视频可点击此处。](https://www.bilibili.com/video/BV1NR6JYuESB/?)
 
 感谢游玩《魔塔救公主·零》。
 
