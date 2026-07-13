@@ -4,7 +4,7 @@
 
 ![《魔塔救公主·零》游戏封面](./images/cover.png)
 
-## 魔塔救公主·零
+## 游戏介绍
 这里是由大傻水工作室制作的魔塔救公主·零。
 游戏由RPG MAKER XP制作，在脚本制作上尽可能地模仿了新新魔塔的特征，同时进行了自己的创新。
 主要玩法为石像玩法，在游戏中有十种不同的石像，其中五种为主动石像，另五种为被动石像，使用不同的组合能够发挥出其不意的效果。
@@ -45,10 +45,10 @@
 
 ## 游戏截图
 
-![《魔塔救公主·零》石像组合玩法截图](./images/gameplay-01.png)
+![《魔塔救公主·零》战斗信息画面](./images/gameplay-01.png)
 
-![《魔塔救公主·零》魔塔楼层探索截图](./images/gameplay-02.png)
+![《魔塔救公主·零》后期楼层探索游戏画面](./images/gameplay-02.png)
 
 ## 版权声明
 
-Copyright © 2025–2026 [BenJoang](https://github.com/BenJoang). All rights reserved except as expressly permitted under the PolyForm Noncommercial License 1.0.0.
+Copyright © 2025–2026 [大傻水（BenJoang）](https://github.com/BenJoang). All rights reserved except as expressly permitted under the PolyForm Noncommercial License 1.0.0.
